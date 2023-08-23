@@ -15,7 +15,7 @@ Shell管理工具：Antsword(蚁剑)
 # 特殊版本说明
 
 PassWaf_4.php 
-限制为Command.php
+文件名限制为Command.php
 
 
 PassWaf_5.php
