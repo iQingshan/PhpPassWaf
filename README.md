@@ -1,29 +1,39 @@
 # PhpPassWaf
+
 Php免杀学习
 
-记录混子的免杀学习日常
+记录免杀学习日常
 
-禁止用于违法乱纪行为
+ **目前第五版效果最好** 
 
 # 使用说明
+
 去除webshell中的编码器注释不然会检测报毒
 
 Shell管理工具：Antsword(蚁剑)
 
 连接密码：qingshan
 
-# 特殊版本说明
-
-PassWaf_4.php 
-文件名限制为Command.php
-
-
-PassWaf_5.php
-链接一次 自动重命名command.php 
-
+禁止用于违法乱纪行为
 
 # 交流学习
 
 QQ：596230047
 
+# 检测结果
 
+![阿里云在线检测](images/ali.jpg)
+
+阿里云在线检测
+
+![你懂的](images/vt.jpg)
+
+知名VT在线检测
+
+![微步检测](images/wb.jpg)
+
+微步在线检测
+
+![长亭检测](images/ct.jpg)
+
+长亭webshell检测
