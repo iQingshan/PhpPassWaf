@@ -22,18 +22,18 @@ QQ：596230047
 
 # 检测结果
 
-![阿里云在线检测](images/ali.jpg)
+![阿里云在线检测](./images/ali.png)
 
 阿里云在线检测
 
-![你懂的](images/vt.jpg)
+![你懂的](./images/vt.png)
 
 知名VT在线检测
 
-![微步检测](images/wb.jpg)
+![微步检测](images/wb.png)
 
 微步在线检测
 
-![长亭检测](images/ct.jpg)
+![长亭检测](images/ct.png)
 
 长亭webshell检测
